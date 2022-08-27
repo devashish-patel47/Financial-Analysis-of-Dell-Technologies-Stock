@@ -1,6 +1,6 @@
 # Financial-Analysis-of-Dell-Technologies-Stock
 
-It includes complete analysis of Dell Technologies Inc. stock and whether a trader should invest in this stock. Tools that were used to analyse the stock are mentioned below:
+This repository contains the complete financial analysis of Dell Technologies Inc. stock and whether a trader should invest in this stock. Tools that were used to analyse the stock are mentioned below:
 
 1) CAPM
 2) Ratio and Valuation Analysis
