@@ -9,4 +9,4 @@ This repository contains the complete financial analysis of Dell Technologies In
 5) Bollinger Bands
 6) Facebook Prophet Library
 
-For all the other details, please refer the report and the powerpoint presentation above.
+For all other details, please refer the report and the powerpoint presentation attached above.
